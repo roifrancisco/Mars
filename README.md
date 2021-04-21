@@ -1,6 +1,9 @@
 # Mars
 
 Pahingi ako ng isang tray ng itlog.
+
+Ang lugaw ay non-essential food.
+
 > Bat kinuha mo lahat??
 ## Kumare
 
